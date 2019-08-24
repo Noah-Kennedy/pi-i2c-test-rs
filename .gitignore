@@ -1,2 +1,4 @@
 /target
 **/*.rs.bk
+/.idea/
+pi-i2c-test-rs.iml
